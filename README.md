@@ -11,6 +11,9 @@ Foram implementadas operações de **CRUD completo (Create, Read, Update, Delete
 - Atualizar dados de funcionário e projeto (**PUT**).
 - Excluir funcionário e projeto (**DELETE**).
 
+> 🔗 Este back-end possui também um **front-end Angular** disponível em:  
+> 👉 [Projeto Funcionário Frontend](https://github.com/cspassos/projeto_funcionario_frontend)
+
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -149,3 +152,6 @@ Este projeto demonstra:
 - Testes unitários e de integração com **JUnit + Mockito**.  
 - Relatório de cobertura com **Jacoco**.  
 - Coleção **Postman** incluída para facilitar os testes.  
+
+> 🔗 Para interface web (frontend Angular) utilize:  
+> 👉 [Projeto Funcionário Frontend](https://github.com/cspassos/projeto_funcionario_frontend)
