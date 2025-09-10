@@ -16,6 +16,7 @@ import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
 
+@CrossOrigin(origins = "*")
 @Tag(name = "Projetos", description = "Operações de criação e consulta de projetos")
 @RestController
 @RequestMapping("/api/projetos")
