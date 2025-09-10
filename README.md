@@ -65,7 +65,7 @@ spring.flyway.locations=classpath:db/migration
 
 ### 1. Clonar o repositório
 ```
-git clone https://github.com/seu-usuario/projeto-funcionario.git
+git clone https://github.com/cspassos/projeto_funcionario_backend.git
 cd projeto-funcionario
 ```
 
