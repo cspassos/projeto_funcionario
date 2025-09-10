@@ -1,4 +1,4 @@
-# Projeto Funcionário
+# Projeto Funcionário - Backend
 
 ## 📌 Resumo
 Este projeto é uma **API RESTful** desenvolvida para gerenciar **projetos** e **funcionários**, onde:
